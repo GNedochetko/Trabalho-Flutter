@@ -101,6 +101,3 @@ execute com `.env` e teste uma pesquisa e Carregar mais no aparelho.
 - [Especificação oficial da API](https://openwebninja.s3.us-east-1.amazonaws.com/portal/openapi/realtime_news_data.yaml)
 - [Autenticação RapidAPI](https://docs.rapidapi.com/docs/configuring-api-security)
 - [Busca e paginação do Giphy](https://developers.giphy.com/docs/api/endpoint/#search)
-
-A aprovação do tema pelo professor e a apresentação do código são etapas
-acadêmicas que devem ser feitas pelo aluno.
